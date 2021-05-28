@@ -96,7 +96,7 @@ nav a:hover {
 .post-form textarea {
   width: 83%;
   height: 60px;
-  border-radius:  5px;
+  border-radius: 5px;
   margin-right: 5px;
   border: 1px solid #d3d3d3;
   font-size: 12px;
@@ -119,4 +119,19 @@ nav a:hover {
 
 .post-form input[type='submit']:active {
   padding: 5px 4px 4px 5px;
+}
+
+.status-post {
+  width: 96%;
+  font-size: 15px;
+  padding: 0px 5px;
+  min-height: 75px;
+}
+
+.post-profile-pic {
+  float: left;
+  margin-right: 7px;
+}
+.post-profile-pic img {
+  border-radius: 5px;
 }
