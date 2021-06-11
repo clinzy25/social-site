@@ -1,0 +1,9 @@
+Live server web extention --
+actual server address http://localhost/social-site
+live server address http://127.0.0.1:5500/
+
+run live server, exit popup
+apply extention settings and refresh page
+
+
+http://localhost/phpmyadmin/
